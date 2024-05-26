@@ -60,7 +60,7 @@ KeyboardInputManager.prototype.listen = function () {
         self.emit("move", mapped);
       }
 
-      if (event.which === 32) self.restart.bind(self)(event);
+      if (event.which === 88) self.restart.bind(self)(event);
     }
   });
 
