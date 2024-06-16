@@ -390,6 +390,8 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 36px; }
+  .tile.tile-0 .tile-inner {
+    background: #000000; }
   .tile.tile-1 .tile-inner {
     background: #0052e3; }
   .tile.tile-2 .tile-inner {
